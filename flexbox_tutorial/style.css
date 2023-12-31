@@ -41,6 +41,12 @@
   height: 300px;
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: stretch;
+}
+
+.social,
+.logo,
+.subscribe {
+  border: 1px solid #5995DA;
 }
 
