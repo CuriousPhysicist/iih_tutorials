@@ -13,14 +13,12 @@
 }
 
 .menu {
-  /* border: 1px solid #fff; /* For debugging */
   width: 900px;
   display: flex;
   justify-content: space-between;
 }
 
 .links {
- /*  border: 1px solid #fff; For debugging */
   display: flex;
   justify-content: flex-end;
 }
@@ -45,9 +43,9 @@
 }
 
 .social,
-.logo,
 .subscribe {
-  /* border: 1px solid #5995DA; */
+  align-self: flex-end;
+  margin-bottom: 20px;
 }
 
 .photo-grid-container {
